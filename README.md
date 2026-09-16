@@ -51,3 +51,18 @@ After downloading it, extract the file:
 
 ```bash
 bzip2 -d shape_predictor_68_face_landmarks.dat.bz2
+```
+
+## Facial Landmarks
+
+The 68 facial landmarks detected by the Dlib facial landmark predictor are shown below:
+
+<img width="602" height="672" alt="68 facial landmarks" src="https://github.com/user-attachments/assets/1851edf6-2c1c-479e-bb4d-0699f747fdcd" />
+
+## Results
+
+The final results of face detection, eye detection, and facial landmark detection are shown below:
+
+<img width="830" height="412" alt="Face detection and facial landmarks results" src="https://github.com/user-attachments/assets/b9795f58-22f9-40d3-a3ea-05fb9d500b75" />
+
+
